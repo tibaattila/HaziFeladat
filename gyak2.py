@@ -8,9 +8,9 @@ def fibo(n):
         print(a,b,end=" ")
     else:
         c=a+b
-        print(a,b,c, end=" ")
+       
         k=3
-        while k<n:
+        while k<n:fgsddhdhghrtfgh
             a=b
             b=c
             c=a+b
